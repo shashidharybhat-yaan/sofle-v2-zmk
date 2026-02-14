@@ -131,20 +131,20 @@ layers:
   - {t: BT, h: '2'}
   - {t: BT, h: '3'}
   - {t: BT, h: '4'}
-  - ''
-  - ''
+  - RGB HUI
+  - RGB SAI
   - ''
   - ''
   - ''
   - ''
   - EP TOG
+  - {t: BT DISC, h: '0'}
+  - {t: BT DISC, h: '1'}
+  - {t: BT DISC, h: '2'}
+  - {t: BT DISC, h: '3'}
+  - {t: BT DISC, h: '4'}
   - RGB HUD
-  - RGB HUI
   - RGB SAD
-  - RGB SAI
-  - RGB EFF
-  - ''
-  - ''
   - ''
   - ''
   - ''
@@ -155,26 +155,26 @@ layers:
   - ''
   - ''
   - ''
+  - RGB BRI
+  - RGB EFF
   - ''
   - ''
   - ''
-  - ''
-  - ''
-  - ''
-  - ''
+  - RGB COLOR HSB(34,67,46)
+  - BT CLR ALL
   - ''
   - ''
   - ''
   - ''
   - ''
   - RGB TOG
+  - '&soft_off'
+  - RGB BRD
+  - RGB EFR
   - ''
   - ''
   - ''
-  - ''
-  - ''
-  - ''
-  - ''
+  - RGB TOG
   - ''
   - ''
   - ''
